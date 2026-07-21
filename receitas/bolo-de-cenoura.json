@@ -1,0 +1,24 @@
+{
+  "id": "bolo-de-cenoura",
+  "titulo": "Bolo de Cenoura com Cobertura de Chocolate",
+  "categoria": "Doces",
+  "tempoPreparo": "45 min",
+  "rendimento": "8 porções",
+  "imagem": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=600",
+  "descricao": "O clássico bolo de cenoura fofinho com uma cobertura bem cremosa de chocolate.",
+  "ingredientes": [
+    "3 cenouras médias picadas",
+    "3 ovos",
+    "1 xícara de óleo de soja",
+    "2 xícaras de açúcar",
+    "2 e 1/2 xícaras de farinha de trigo",
+    "1 colher de sopa de fermento em pó"
+  ],
+  "modoPreparo": [
+    "Em um liquidificador, bata as cenouras, os ovos e o óleo até obter uma mistura homogênea.",
+    "Em uma tigela, adicione o açúcar e a farinha de trigo e misture bem.",
+    "Despeje a mistura do liquidificador na tigela e mexa até incorporar.",
+    "Adicione o fermento e misture delicadamente.",
+    "Despeje em uma forma untada e asse em forno pré-aquecido a 180°C por cerca de 40 minutos."
+  ]
+}
