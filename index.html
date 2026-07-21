@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Minhas Receitas</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- CABEÇALHO -->
+  <header class="navbar">
+    <div class="logo">
+      <a href="index.html">🍳 Minhas Receitas</a>
+    </div>
+
+    <!-- Botão Hambúrguer -->
+    <button class="hamburger-btn" id="hamburgerBtn" aria-label="Abrir Menu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+
+    <!-- Menu Lateral / Dropdown -->
+    <nav class="nav-menu" id="navMenu">
+      <h3>Categorias</h3>
+      <ul>
+        <li><a href="#" onclick="filtrarCategoria('todas')">Todas</a></li>
+        <li><a href="#" onclick="filtrarCategoria('Doces')">Doces</a></li>
+        <li><a href="#" onclick="filtrarCategoria('Salgados')">Salgados</a></li>
+        <li><a href="#" onclick="filtrarCategoria('Bebidas')">Bebidas</a></li>
+        <li><a href="#" onclick="filtrarCategoria('Lanches')">Lanches</a></li>
+      </ul>
+      <hr>
+      <ul>
+        <li><a href="sobre.html">Sobre o Site</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- BUSCA E MENSAGEM DE BOAS-VINDAS -->
+  <main class="container">
+    <section class="hero">
+      <h1>Descubra e Prepare Receitas Incríveis</h1>
+      <input type="text" id="searchInput" placeholder="Buscar por ingrediente ou nome..." oninput="filtrarBusca()">
+    </section>
+
+    <!-- LISTA DE RECEITAS -->
+    <section id="receitasGrid" class="grid-receitas">
+      <!-- Cards renderizados via JS -->
+    </section>
+  </main>
+
+  <script>
+    // Lista de arquivos de receita presentes na pasta /receitas/
+    const arquivosReceitas = ['bolo-de-cenoura.json']; 
+    let receitasCache = [];
+
+    // Carregar receitas
+    async function carregarReceitas() {
+      const grid = document.getElementById('receitasGrid');
+      grid.innerHTML = '<p>Carregando receitas...</p>';
+
+      receitasCache = await Promise.all(arquivosReceitas.map(file => 
+        fetch(`receitas/${file}`).then(res => res.json())
+      ));
+
+      exibirReceitas(receitasCache);
+    }
+
+    function exibirReceitas(lista) {
+      const grid = document.getElementById('receitasGrid');
+      grid.innerHTML = '';
+
+      if (lista.length === 0) {
+        grid.innerHTML = '<p>Nenhuma receita encontrada.</p>';
+        return;
+      }
+
+      lista.forEach(rec => {
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.innerHTML = `
+          <img src="${rec.imagem}" alt="${rec.titulo}">
+          <div class="card-content">
+            <span class="badge">${rec.categoria}</span>
+            <h3>${rec.titulo}</h3>
+            <p>${rec.descricao}</p>
+            <a href="receita.html?id=${rec.id}" class="btn">Ver Receita</a>
+          </div>
+        `;
+        grid.appendChild(card);
+      });
+    }
+
+    function filtrarBusca() {
+      const termo = document.getElementById('searchInput').value.toLowerCase();
+      const filtradas = receitasCache.filter(r => 
+        r.titulo.toLowerCase().includes(termo) || 
+        r.ingredientes.some(ing => ing.toLowerCase().includes(termo))
+      );
+      exibirReceitas(filtradas);
+    }
+
+    function filtrarCategoria(categoria) {
+      document.getElementById('navMenu').classList.remove('active');
+      if (categoria === 'todas') {
+        exibirReceitas(receitasCache);
+      } else {
+        const filtradas = receitasCache.filter(r => r.categoria.toLowerCase() === categoria.toLowerCase());
+        exibirReceitas(filtradas);
+      }
+    }
+
+    // Controle do Menu Hambúrguer
+    document.getElementById('hamburgerBtn').addEventListener('click', () => {
+      document.getElementById('navMenu').classList.toggle('active');
+    });
+
+    carregarReceitas();
+  </script>
+</body>
+</html>
