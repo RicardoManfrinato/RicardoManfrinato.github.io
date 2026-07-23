@@ -1,0 +1,34 @@
+{
+  "id": "torta-trufada-de-chocolate-sem-forno",
+  "titulo": "Torta Trufada de Chocolate Sem Forno",
+  "categoria": "Sobremesas",
+  "tempoPreparo": "30 min (mais tempo de geladeira)",
+  "rendimento": "12 porções",
+  "imagem": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?w=600",
+  "descricao": "Uma torta de chocolate super cremosa, aveludada e sem necessidade de ir ao forno. Feita com uma base crocante de biscoito e coberta com ganache, granulado e trufas de chocolate.",
+  "ingredientes": [
+    "2 e 1/2 xícaras (250 g) de migalhas de biscoito de chocolate (tipo Oreo sem recheio ou biscoito de cacau)",
+    "1/2 xícara (115 g) de manteiga sem sal derretida",
+    "1 pitada de sal",
+    "2 e 1/2 xícaras (600 ml) de creme de leite fresco ou para bater",
+    "510 g de chocolate meio amargo bem picado",
+    "170 g de chocolate ao leite bem picado",
+    "2 colheres de sopa (30 g) de manteiga sem sal",
+    "1 colher de chá de extrato de baunilha",
+    "1/2 xícara (120 ml) de creme de leite (para a ganache)",
+    "140 g de chocolate meio amargo picado (para a ganache)",
+    "10 a 12 trufas de chocolate (para decorar)",
+    "1/2 xícara (60 g) de granulado ou raspas de chocolate (para decorar)"
+  ],
+  "modoPreparo": [
+    "Misture as migalhas de biscoito, a manteiga derretida e a pitada de sal até obter uma farofa úmida homogênea.",
+    "Pressione firmemente no fundo e nas laterais de uma forma de fundo removível de 23 cm. Leve à geladeira por 20 minutos.",
+    "Aqueça os 600 ml de creme de leite até começar a levantar fervura leve.",
+    "Despeje sobre os 510 g de chocolate meio amargo e 170 g de chocolate ao leite picados e deixe descansar por 2 minutos.",
+    "Adicione 2 colheres de sopa de manteiga, a baunilha e uma pitada de sal. Misture bem até obter um creme liso e brilhante.",
+    "Deixe esfriar por 15 a 20 minutos até engrossar levemente, despeje sobre a base gelada e leve à geladeira por no mínimo 6 horas (de preferência de um dia para o outro).",
+    "Para a ganache de cobertura, aqueça os 120 ml de creme de leite, despeje sobre os 140 g de chocolate picado, aguarde 2 minutos e misture até ficar homogêneo.",
+    "Espalhe a ganache sobre a torta gelada, decore com o granulado e organize as trufas por cima.",
+    "Leve à geladeira por mais 30 minutos antes de fatiar e servir."
+  ]
+}
