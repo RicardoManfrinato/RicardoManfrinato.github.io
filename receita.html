@@ -64,7 +64,9 @@
           </article>
         `;
       } catch (err) {
-        container.innerHTML = '<p>Erro ao carregar a receita. ${err}</p>';
+        container.innerHTML = '<p>Erro ao carregar a receita.</p>
+          <pre>${err.message}</pre>';
+        
       }
     }
 
