@@ -1,0 +1,36 @@
+{
+  "id": "arroz-de-preguicoso",
+  "titulo": "Arroz de Preguiçoso",
+  "categoria": "Salgados",
+  "tempoPreparo": "40 min",
+  "rendimento": "6 porções",
+  "imagem": "",
+  "descricao": "Uma refeição completa, rápida e deliciosa feita direto em uma travessa no forno, sem sujeira nem complicação.",
+  "ingredientes": [
+    "2 xícaras de arroz cru (lavado ou não, conforme sua preferência)",
+    "1 lata de milho verde escorrido",
+    "1 seleta de legumes (ou ervilha e cenoura)",
+    "200 g de presunto picado em cubos",
+    "200 g de queijo muçarela picado em cubos",
+    "1 tomate picado em cubinhos",
+    "1/2 cebola picada",
+    "1 requeijão cremoso (200 g)",
+    "1 sachê de molho de tomate (300 g)",
+    "4 xícaras de água quente (ou caldo de legumes/galinha)",
+    "2 colheres de sopa de azeite ou óleo",
+    "Sal, pimenta-do-reino e cheiro-verde a gosto",
+    "100 g de queijo muçarela ralado (para cobrir)",
+    "Orégano a gosto para polvilhar"
+  ],
+  "modoPreparo": [
+    "Em um refratário grande que possa ir ao forno, coloque o arroz cru.",
+    "Adicione o milho verde, a seleta de legumes, o presunto, a muçarela em cubos, o tomate e a cebola picada.",
+    "Tempere com azeite, sal, pimenta-do-reino e cheiro-verde a gosto, misturando bem todos os ingredientes secos no refratário.",
+    "Adicione o sachê de molho de tomate, o requeijão cremoso e despeje as 4 xícaras de água quente sobre a mistura.",
+    "Misture delicadamente tudo para incorporar o molho e a água uniformemente.",
+    "Cubra bem o refratário com papel-alumínio (com o lado brilhante voltado para a comida).",
+    "Leve ao forno pré-aquecido a 200°C por cerca de 30 a 35 minutos, ou até que o arroz esteja macio e tenha absorvido o líquido.",
+    "Retire o papel-alumínio, cubra com a muçarela ralada e polvilhe orégano.",
+    "Volte ao forno por mais 10 minutos apenas para derreter e gratinar o queijo antes de servir."
+  ]
+}
