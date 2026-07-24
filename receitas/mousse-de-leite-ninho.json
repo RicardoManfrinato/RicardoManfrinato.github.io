@@ -1,0 +1,26 @@
+{
+  "id": "mousse-de-leite-ninho",
+  "titulo": "Mousse de Leite Ninho Super Cremoso",
+  "categoria": "Sobremesas",
+  "tempoPreparo": "15 min",
+  "rendimento": "6 porções",
+  "imagem": "",
+  "descricao": "Uma sobremesa extremamente cremosa e fácil de fazer, perfeita para quem ama o sabor suave do leite em pó.",
+  "ingredientes": [
+    "1 caixa de leite condensado (395 g)",
+    "2 caixas de creme de leite gelado (400 g)",
+    "1 e 1/2 xícara de leite em pó (Leite Ninho)",
+    "1 pacote de gelatina em pó sem sabor (12 g)",
+    "5 colheres de sopa de água morna (para hidratar a gelatina)",
+    "Leite em pó para polvilhar a gosto"
+  ],
+  "modoPreparo": [
+    "Em um recipiente, hidrate a gelatina sem sabor com as 5 colheres de sopa de água e leve ao micro-ondas por 15 a 20 segundos para derreter.",
+    "No liquidificador, adicione o leite condensado, o creme de leite bem gelado e o leite em pó.",
+    "Bata bem por aproximadamente 2 minutos até obter uma mistura homogênea.",
+    "Com o liquidificador ainda em funcionamento (ou logo após), adicione a gelatina dissolvida e bata por mais 1 minuto.",
+    "Despeje a mistura em uma travessa ou em taças individuais.",
+    "Leve à geladeira por no mínimo 3 a 4 horas para que tome consistência firme.",
+    "Polvilhe leite em pó por cima antes de servir."
+  ]
+}
