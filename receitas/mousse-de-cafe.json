@@ -1,0 +1,28 @@
+{
+  "id": "mousse-de-cafe",
+  "titulo": "Sobremesa Mousse de Café Pronta em Poucos Minutos",
+  "categoria": "Sobremesas",
+  "tempoPreparo": "15 min (mais tempo de geladeira)",
+  "rendimento": "6 porções",
+  "imagem": "",
+  "descricao": "Uma sobremesa cremosa e refrescante de mousse de café, muito simples e rápida de preparar.",
+  "ingredientes": [
+    "1 caixa de leite condensado (395 g)",
+    "2 caixas de creme de leite (400 g)",
+    "2 colheres de sopa de café solúvel",
+    "50 ml de água morna",
+    "1 pacote de gelatina em pó sem sabor (12 g)",
+    "5 colheres de sopa de água (para hidratar a gelatina)",
+    "Cacau em pó ou raspas de chocolate para decorar (opcional)"
+  ],
+  "modoPreparo": [
+    "Dissolva o café solúvel nos 50 ml de água morna e reserve.",
+    "Em um recipiente pequeno, hidrate a gelatina em pó nas 5 colheres de sopa de água e leve ao micro-ondas por 15 segundos para derreter.",
+    "No liquidificador, adicione o leite condensado, o creme de leite e o café solúvel dissolvido.",
+    "Bata bem por cerca de 2 minutos até obter uma mistura homogênea.",
+    "Acrescente a gelatina derretida e bata por mais 1 minuto para incorporar.",
+    "Despeje a mistura em uma travessa ou em taças individuais.",
+    "Leve à geladeira por pelo menos 2 a 3 horas ou até firmar.",
+    "Decore com cacau em pó ou raspas de chocolate antes de servir."
+  ]
+}
