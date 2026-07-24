@@ -82,7 +82,7 @@
         const card = document.createElement('div');
         card.className = 'card';
         card.innerHTML = `
-          <img src="${rec.imagem}" alt="${rec.titulo}">
+          <img src="${rec.imagem}" alt="${rec.titulo}" onerror="this.style.display='none';">
           <div class="card-content">
             <span class="badge">${rec.categoria}</span>
             <h3>${rec.titulo}</h3>
