@@ -1,0 +1,7 @@
+Como adicionar novas receitas no futuro?
+Crie um arquivo .json novo dentro da pasta receitas/ (ex: tortao-de-frango.json). usando o ID criado no json
+
+Abra o arquivo index.html e adicione o nome desse arquivo na lista arquivosReceitas:
+
+JavaScript
+const arquivosReceitas = ['bolo-de-cenoura.json', 'tortao-de-frango.json'];
