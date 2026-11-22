@@ -1,0 +1,25 @@
+{
+  "id": "tempero-lemon-pepper",
+  "titulo": "Tempero Lemon Pepper Caseiro",
+  "categoria": "Temperos",
+  "tempoPreparo": "30 min",
+  "rendimento": "1 potinho (aprox. 100g)",
+  "imagem": "",
+  "descricao": "Aprenda a fazer um lemon pepper caseiro super aromático, sem conservantes e ideal para temperar frangos, peixes, saladas e batatas.",
+  "ingredientes": [
+    "Raspa da casca de 5 limões-sicilianos (apenas a parte amarela)",
+    "3 colheres de sopa de pimenta-do-reino em grãos (ou moída na hora)",
+    "1 colher de sopa de sal marinho ou sal fino",
+    "1 colher de chá de alho em pó (opcional)",
+    "1 colher de chá de cebola em pó (opcional)"
+  ],
+  "modoPreparo": [
+    "Com um ralador fino, retire as raspas de todos os limões, tomando cuidado para não ralar a parte branca para não amargar.",
+    "Espalhe as raspas de limão em uma assadeira coberta com papel-manteiga.",
+    "Leve ao forno em temperatura bem baixa (cerca de 90°C a 100°C) por cerca de 20 a 25 minutos, até as raspas ficarem completamente secas e crocantes (deixe a porta do forno levemente entreaberta se necessário).",
+    "Retire do forno e deixe esfriar completamente.",
+    "Em um moedor de pimenta, pilão ou moedor de grãos, adicione as raspas secas, os grãos de pimenta-do-reino e o sal.",
+    "Triture tudo até obter a espessura/granulometria desejada.",
+    "Misture o alho e a cebola em pó (se estiver utilizando) e guarde em um pote de vidro limpo e hermeticamente fechado."
+  ]
+}

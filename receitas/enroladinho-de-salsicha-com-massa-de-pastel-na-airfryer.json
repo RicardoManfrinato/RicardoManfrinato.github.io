@@ -1,0 +1,25 @@
+{
+  "id": "enroladinho-de-salsicha-com-massa-de-pastel-na-airfryer",
+  "titulo": "Enroladinho de salsicha com massa de pastel na airfryer",
+  "categoria": "Salgados",
+  "tempoPreparo": "20 min",
+  "rendimento": "12 porções",
+  "imagem": "https://github.com/RicardoManfrinato/RicardoManfrinato.github.io/tree/d4fbb2a8911d98450d38f31e7b082fc651a91ec8/imagens/enroladinho-de-salsicha-com-massa-de-pastel-na-airfryer.jpg",
+  "descricao": "Quer um lanche prático e não sabe o que fazer? Se você tiver massa de pastel e salsicha na geladeira, essa receita é simples, pede poucos ingredientes, fica pronta em menos de 30 minutos e todo mundo ama!",
+  "ingredientes": [
+    "1 pacote de massa de pastel (cerca de 200 g)",
+    "6 salsichas",
+    "Azeite para pincelar",
+    "Orégano a gosto (opcional)"
+  ],
+  "modoPreparo": [
+    "Coloque as salsichas em uma panela com água fervente e deixe cozinhar por 5 minutos. Em seguida, escorra a água e reserve.",
+    "Coloque a salsicha na ponta do disco de massa de pastel. Caso sobre massa ou salsicha por diferença de tamanho, corte os excessos.",
+    "Enrole a massa até fechar. Umedeça a ponta para garantir que a massa ficará bem grudada e não vai abrir.",
+    "Corte o enroladinho em 2 ou 3 partes conforme a preferência.",
+    "Pincele azeite por cima dos rolinhos para garantir que fiquem dourados.",
+    "Salpique orégano por cima (ou gergelim/queijo ralado se preferir).",
+    "Disponha os enroladinhos na airfryer, sem que fiquem grudados, e leve-os para assar na airfryer preaquecida a 180ºC por 10 minutos.",
+    "Sirva o enroladinho ainda quente com um molho a sua escolha para acompanhar."
+  ]
+}

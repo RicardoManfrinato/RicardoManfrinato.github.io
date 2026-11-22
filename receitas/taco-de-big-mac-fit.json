@@ -1,0 +1,27 @@
+{
+  "id": "taco-de-big-mac-fit",
+  "titulo": "Taco de Big Mac FIT",
+  "categoria": "Salgados",
+  "tempoPreparo": "15 min",
+  "rendimento": "1 porção",
+  "imagem": "",
+  "descricao": "Uma versão saudável e prática do famoso Big Mac feita na frigideira com massa de Rap10.",
+  "ingredientes": [
+    "1 Rap10",
+    "150 g de carne moída",
+    "Sal a gosto",
+    "Queijo cheddar light",
+    "Picles picados",
+    "Alface americana fatiada",
+    "Cebola roxa picada",
+    "1 colher (sopa) de Molho American Burger Tasty (ou mistura de ketchup, maionese e mostarda)"
+  ],
+  "modoPreparo": [
+    "Tempere a carne moída apenas com sal.",
+    "Espalhe a carne sobre o Rap10, formando uma camada uniforme.",
+    "Leve à frigideira quente com a carne voltada para baixo e cozinhe até dourar.",
+    "Vire o Rap10 e adicione o queijo cheddar light para derreter.",
+    "Retire da frigideira e recheie com a alface americana, a cebola roxa, os picles e o molho.",
+    "Dobre ao meio e sirva imediatamente."
+  ]
+}

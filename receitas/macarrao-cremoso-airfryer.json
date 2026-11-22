@@ -1,0 +1,31 @@
+{
+  "id": "macarrao-cremoso-airfryer",
+  "titulo": "Macarrão Cremoso na Airfryer",
+  "categoria": "Salgados",
+  "tempoPreparo": "25 min",
+  "rendimento": "3 porções",
+  "imagem": "",
+  "descricao": "Uma receita prática e deliciosa onde o macarrão cozinha e gratina diretamente na cesta da Airfryer com molho cremoso de queijo e tomate.",
+  "ingredientes": [
+    "200 g de macarrão (tipo parafuso, pena ou cotovelo)",
+    "1 bloco (200 g) de queijo cream cheese ou requeijão culinário",
+    "1 sachê (300 g) de molho de tomate",
+    "1 e 1/2 xícara de água morna ou caldo de legumes",
+    "150 g de queijo muçarela ralado",
+    "100 g de presunto ou bacon picado (opcional)",
+    "Tomates-cereja a gosto",
+    "2 colheres de sopa de azeite",
+    "Sal, pimenta-do-reino e orégano a gosto"
+  ],
+  "modoPreparo": [
+    "Em uma forma que caiba na cesta da Airfryer (ou na própria cesta com papel próprio/silicone), coloque o macarrão cru no fundo.",
+    "No centro do macarrão, acomode o bloco de cream cheese ou requeijão.",
+    "Espalhe os tomates-cereja e o presunto ou bacon ao redor.",
+    "Regue tudo com o molho de tomate, o azeite e adicione a água morna para cobrir o macarrão.",
+    "Tempere com sal, pimenta-do-reino e orégano.",
+    "Leve à Airfryer preaquecida a 180°C por cerca de 15 a 20 minutos.",
+    "Abra na metade do tempo e misture tudo muito bem para envolver o macarrão no molho cremoso.",
+    "Cubra com a muçarela ralada e volte à Airfryer a 200°C por mais 5 minutos até o queijo derreter e gratinar.",
+    "Sirva quente imediatamente."
+  ]
+}

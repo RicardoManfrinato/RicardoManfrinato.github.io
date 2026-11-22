@@ -1,0 +1,21 @@
+{
+"id": "mousse-de-chocolate-com-chantilly",
+"titulo": "Mousse de Chocolate com Chantilly",
+"categoria": "sobremesas",
+"tempoPreparo": "2h 40min",
+"rendimento": "6 porções",
+"imagem": "",
+"descricao": "Uma mousse de chocolate leve e aerada, feita com chantilly incorporado delicadamente para uma textura perfeita.",
+"ingredientes": [
+"1 caixa de creme de leite",
+"1 lata de leite condensado",
+"5 colheres de sopa de chocolate em pó 50%",
+"1 xícara de chantilly já batido"
+],
+"modoPreparo": [
+"Bata no liquidificador o creme de leite, o leite condensado e o chocolate em pó até formar um creme homogêneo.",
+"Leve à geladeira por 30 minutos para firmar um pouco.",
+"Incorpore delicadamente o chantilly ao creme gelado, mexendo de baixo para cima para manter a leveza.",
+"Distribua em taças e leve novamente à geladeira por no mínimo 2 horas antes de servir."
+]
+}

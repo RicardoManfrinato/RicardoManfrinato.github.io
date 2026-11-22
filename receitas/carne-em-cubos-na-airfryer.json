@@ -1,0 +1,28 @@
+{
+  "id": "carne-em-cubos-na-airfryer",
+  "titulo": "Carne em Cubos na Airfryer",
+  "categoria": "Salgados",
+  "tempoPreparo": "20 min",
+  "rendimento": "3 porções",
+  "imagem": "",
+  "descricao": "Cubos de carne macios e suculentos por dentro, dourados por fora, temperados com alho e azeite para um preparo rápido e sem sujeira.",
+  "ingredientes": [
+    "500 g de carne bovina macia (como alcatra, contrafilé ou maminha) cortada em cubos de cerca de 2 cm",
+    "2 colheres de sopa de azeite de oliva ou manteiga derretida",
+    "3 dentes de alho picados ou amassados",
+    "1 colher de chá de páprica doce ou defumada",
+    "1 colher de sopa de molho shoyu ou molho inglês (opcional)",
+    "Sal e pimenta-do-reino a gosto",
+    "Cheiro-verde picado para finalizar"
+  ],
+  "modoPreparo": [
+    "Em uma tigela, coloque os cubos de carne e adicione o azeite (ou manteiga), o alho, a páprica, o shoyu, o sal e a pimenta-do-reino.",
+    "Misture bem com as mãos ou uma colher para garantir que todos os cubos fiquem bem temperados.",
+    "Preaqueça a Airfryer a 200°C por 3 a 5 minutos.",
+    "Espalhe os cubos de carne no cesto da Airfryer em uma única camada (se necessário, faça em etapas para não amontoar).",
+    "Asse a 200°C por cerca de 10 a 12 minutos.",
+    "Na metade do tempo (aos 5 ou 6 minutos), abra o cesto e sacuda bem para dourar todos os lados por igual.",
+    "Retire quando estiverem dourados por fora e no ponto de sua preferência por dentro.",
+    "Finalize com cheiro-verde picado por cima e sirva imediatamente."
+  ]
+}

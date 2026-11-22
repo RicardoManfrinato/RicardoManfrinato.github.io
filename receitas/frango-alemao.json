@@ -1,0 +1,35 @@
+{
+  "id": "frango-alemao",
+  "titulo": "Frango Alemão com Molho Cremoso de Mostarda",
+  "categoria": "Salgados",
+  "tempoPreparo": "35 min",
+  "rendimento": "4 porções",
+  "imagem": "",
+  "descricao": "Filés de frango empanados e dourados ao estilo alemão, acompanhados de um incrível molho cremoso de mostarda Dijon e cerveja.",
+  "ingredientes": [
+    "600 g de peito de frango cortado em filés finos",
+    "1 colher de sopa de mostarda amarela ou Dijon",
+    "2 dentes de alho amassados",
+    "Suco de 1/2 limão",
+    "Sal e pimenta-do-reino a gosto",
+    "1 xícara de farinha de trigo (para empanar)",
+    "2 ovos batidos",
+    "1 e 1/2 xícara de farinha de rosca ou panko",
+    "Óleo ou manteiga para grelhar/fritar",
+    "1 colher de sopa de manteiga (para o molho)",
+    "1/2 cebola picada (para o molho)",
+    "1/2 xícara de cerveja pilsen ou caldo de galinha (para o molho)",
+    "1 colher de sopa de mostarda Dijon (para o molho)",
+    "200 g de creme de leite (para o molho)"
+  ],
+  "modoPreparo": [
+    "Tempere os filés de frango com alho, suco de limão, 1 colher de mostarda, sal e pimenta-do-reino.",
+    "Passe cada filé na farinha de trigo, depois nos ovos batidos e por último na farinha de rosca ou panko, pressionando bem para grudar.",
+    "Em uma frigideira grande, aqueça o óleo ou a manteiga e doure os filés empanados de ambos os lados até ficarem bem crocantes e cozidos por dentro. Reserve em local aquecido.",
+    "Na mesma frigideira, derreta 1 colher de sopa de manteiga e refogue a cebola picada até ficar transparente.",
+    "Adicione a cerveja (ou caldo) para soltar o fundo da frigideira e deixe reduzir pela metade.",
+    "Adicione a mostarda Dijon e o creme de leite, misturando bem em fogo baixo até obter um molho homogêneo e levemente encorpado.",
+    "Ajuste o sal e a pimenta-do-reino do molho.",
+    "Regue os filés de frango com o molho de mostarda quente e sirva com batatas cozidas, purê ou salada."
+  ]
+}

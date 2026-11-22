@@ -1,0 +1,18 @@
+{
+"id": "chantilly-de-caramelo",
+"titulo": "Chantilly de Caramelo",
+"categoria": "coberturas-e-recheios",
+"tempoPreparo": "20 min",
+"rendimento": "1 pote (aprox. 300g)",
+"imagem": "",
+"descricao": "Um chantilly aveludado e saboroso com toque de caramelo artesanal, perfeito para rechear ou cobrir bolos e sobremesas.",
+"ingredientes": [
+	"1 xícara de açúcar", 
+	"1 colher de sopa de manteiga", 
+	"1 caixa de creme de leite"],
+"modoPreparo": [ 
+	"Leve o açúcar ao fogo médio e deixe derreter até formar um caramelo.", 
+	"Adicione a manteiga e misture bem.", 
+	"Acrescente o creme de leite e mexa até obter uma mistura homogênea.", 
+	"Deixe esfriar e, em seguida, bata na batedeira até atingir o ponto de chantilly." ]
+}

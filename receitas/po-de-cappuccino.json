@@ -1,0 +1,19 @@
+{
+"id": "po-de-cappuccino",
+"titulo": "Pó de Cappuccino",
+"categoria": "caseiros",
+"tempoPreparo": "5 min",
+"rendimento": "1 pote (aprox. 325g)",
+"imagem": "",
+"descricao": "Uma mistura prática e caseira de pó para cappuccino, perfeita para preparar uma bebida quente e cremosa a qualquer hora.",
+"ingredientes": [
+"200g de Leite em Pó Integral",
+"100g de Achocolatado ou Ovomaltine",
+"25g de Café solúvel",
+"1 colher de sopa de Bicarbonato de sódio"
+],
+"modoPreparo": [
+"Coloque todos os ingredientes em um processador ou liquidificador.",
+"Triture muito bem até obter um pó fino e homogêneo."
+]
+}

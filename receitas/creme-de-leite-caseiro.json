@@ -1,0 +1,18 @@
+{
+"id": "creme-de-leite-caseiro",
+"titulo": "Creme de Leite Caseiro",
+"categoria": "caseiros",
+"tempoPreparo": "24h 15min",
+"rendimento": "1 pote (aprox. 600g)",
+"imagem": "",
+"descricao": "Uma receita caseira e consistente de creme de leite com apenas dois ingredientes, ideal para preparos doces e salgados.",
+"ingredientes": [ 
+"400 ml de Leite Integral", 
+"200g de Manteiga sem sal" ],
+"modoPreparo": [ 
+"Leve o leite ao fogo baixo até começarem a surgir bolhas nas laterais.", 
+"Desligue o fogo, adicione a manteiga e mexa até derreter completamente.", 
+"Transfira a mistura para o liquidificador e bata por 5 a 7 minutos.", 
+"Coloque em uma vasilha e cubra com filme plástico em contato com a superfície do creme.", 
+"Leve à geladeira por 24 horas para adquirir consistência." ]
+}

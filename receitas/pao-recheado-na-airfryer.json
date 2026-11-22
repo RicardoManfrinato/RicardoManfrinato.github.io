@@ -1,0 +1,28 @@
+{
+  "id": "pao-recheado-na-airfryer",
+  "titulo": "Pão Recheado na Airfryer",
+  "categoria": "Salgados",
+  "tempoPreparo": "15 min",
+  "rendimento": "2 porções",
+  "imagem": "",
+  "descricao": "Uma opção rápida e deliciosa para reaproveitar pães franceses, recheando-os com queijo, presunto e requeijão bem gratinados.",
+  "ingredientes": [
+    "2 pães franceses (ou de sua preferência)",
+    "100 g de presunto picado",
+    "150 g de queijo muçarela picado ou ralado",
+    "2 colheres de sopa de requeijão cremoso",
+    "1 tomate pequeno sem sementes picado",
+    "Manteiga para pincelar",
+    "Orégano a gosto"
+  ],
+  "modoPreparo": [
+    "Corte uma tampa na parte superior de cada pão e retire um pouco do miolo para criar espaço.",
+    "Em uma tigela, misture o presunto, a muçarela, o requeijão e o tomate picado.",
+    "Tempere a mistura com orégano a gosto e recheie bem a cavidade dos pães.",
+    "Pincele um pouco de manteiga por fora da casca dos pães para ficarem bem crocantes.",
+    "Finalize com um pouco mais de muçarela e orégano por cima do recheio.",
+    "Preaqueça a Airfryer a 180°C por 3 minutos.",
+    "Coloque os pães recheados na cesta e asse a 180°C por 7 a 10 minutos, até o queijo derreter e a casca ficar dourada e crocante.",
+    "Sirva quente imediatamente."
+  ]
+}

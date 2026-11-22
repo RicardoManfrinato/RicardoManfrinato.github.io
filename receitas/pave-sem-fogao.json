@@ -1,0 +1,30 @@
+{
+  "id": "pave-sem-fogao",
+  "titulo": "Pavê sem Fogão",
+  "categoria": "Doces",
+  "tempoPreparo": "20 min (+ geladeira)",
+  "rendimento": "8 porções",
+  "imagem": "",
+  "descricao": "Uma receita prática de pavê super cremosa que não vai ao fogão, finalizada com ganache de chocolate.",
+  "ingredientes": [
+    "200g de leite condensado gelado",
+    "500g de nata, creme de leite fresco ou chantilly vegetal",
+    "1 colher de sopa (10g) de cacau em pó",
+    "80g de chocolate meio amargo",
+    "1 pacote de biscoito champanhe ou maizena",
+    "Café ou leite para molhar os biscoitos",
+    "160g (2 barras) de chocolate meio amargo (para a cobertura)",
+    "200g de creme de leite (para a cobertura)",
+    "Granulado ou Ovomaltine para finalizar"
+  ],
+  "modoPreparo": [
+    "Derreta os 80g de chocolate meio amargo e adicione um pouco do creme de leite só para ficar cremoso.",
+    "Na batedeira, misture a nata, o leite condensado gelado, o cacau em pó e o chocolate derretido.",
+    "Bata até atingir o ponto de chantilly cremoso (cuidado para não bater demais e virar manteiga).",
+    "Para a ganache da cobertura: pique os 160g de chocolate meio amargo, adicione um pouco de creme de leite e derreta no micro-ondas em intervalos de 30 segundos. Adicione o restante do creme de leite e misture até ficar homogêneo.",
+    "Decore o fundo de uma travessa com um pouco de ganache.",
+    "Monte em camadas alternadas de biscoitos levemente umedecidos no café (ou leite) e creme.",
+    "Finalize cobrindo tudo com a ganache de chocolate e leve para gelar de um dia para o outro.",
+    "Ao servir, salpique granulado ou Ovomaltine por cima para dar crocância."
+  ]
+}

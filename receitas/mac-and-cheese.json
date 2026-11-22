@@ -1,0 +1,29 @@
+{
+  "id": "mac-and-cheese",
+  "titulo": "Mac and Cheese Cremoso",
+  "categoria": "Salgados",
+  "tempoPreparo": "25 min",
+  "rendimento": "4 porções",
+  "imagem": "",
+  "descricao": "O clássico macarrão com queijo americano, super cremoso, envolto em um molho rico de cheddar e parmesão.",
+  "ingredientes": [
+    "250 g de macarrão caracolinho ou cotovelo",
+    "2 colheres de sopa de manteiga",
+    "2 colheres de sopa de farinha de trigo",
+    "500 ml de leite integral",
+    "200 g de queijo cheddar ralado",
+    "100 g de queijo muçarela ou prato ralado",
+    "50 g de queijo parmesão ralado",
+    "1 pitada de noz-moscada",
+    "Sal e pimenta-do-reino a gosto"
+  ],
+  "modoPreparo": [
+    "Cozinhe o macarrão em água fervente com sal até ficar al dente. Escorra e reserve.",
+    "Em uma panela em fogo médio, derreta a manteiga e adicione a farinha de trigo, mexendo bem por 1 a 2 minutos para cozinhar a farinha.",
+    "Adicione o leite aos poucos, mexendo constantemente com um batedor de arame (fouet) para não empelotar.",
+    "Cozinhe o molho até engrossar e ficar cremoso.",
+    "Ligue em fogo baixo, tempere com sal, pimenta-do-reino e noz-moscada.",
+    "Adicione os queijos cheddar, muçarela e parmesão, mexendo até derreterem completamente.",
+    "Incorpore o macarrão cozido ao molho de queijo, misture bem e sirva imediatamente (ou leve ao forno para gratinar com um pouco mais de queijo por cima)."
+  ]
+}

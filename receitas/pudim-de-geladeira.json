@@ -1,0 +1,27 @@
+{
+  "id": "pudim-de-geladeira",
+  "titulo": "Pudim de Geladeira",
+  "categoria": "Sobremesas",
+  "tempoPreparo": "Não informado",
+  "rendimento": "Não informado",
+  "imagem": "",
+  "descricao": "Receita de Pudim de Geladeira, enviada pelo usuário.",
+  "ingredientes": [
+    "1 lata de leite condensado",
+    "1 lata de creme de leite",
+    "1 lata de leite (mesma medida de leite condensado)",
+    "1 gelatina sem sabor",
+    "Calda: 2 xicaras de açucar",
+    "Calda: 1 xicara de água."
+  ],
+  "modoPreparo": [
+    "Calda: Coloque o açucar em uma panela em fogo médio e comece a derreter.",
+    "Calda: Adicione aos poucos a agua, sempre mexendo até ficar uma consistencia lisa",
+    "Calda: Coloque a calda na forma e com a colherpasse a calda em volta da forma.",
+    "Pudim: Hidrate a gelatina com agua fria por 5 minutos e depois aqueca por 15 segundos no micro-ondas.",
+    "Pudim: Coloque o restante dos ingredientes no liquidificador e bata por 5 minutos.",
+    "Pudim: Adicione a gelatina já aquecida e bata por mais 30 segundos.",
+    "Pudim: Despeje a massa do pudim na forma e leve a geladeira por pelo menos 3 horas.",
+    "Pudim: Desenforme o pudim e sirva"
+  ]
+}

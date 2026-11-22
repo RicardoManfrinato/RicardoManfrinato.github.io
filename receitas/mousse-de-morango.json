@@ -1,0 +1,20 @@
+{
+"id": "mousse-de-morango",
+"titulo": "Mousse de Morango",
+"categoria": "sobremesas",
+"tempoPreparo": "15 min",
+"rendimento": "350 gramas",
+"imagem": "",
+"descricao": "Uma mousse leve e saboroa, perfeito para recheio de bolos ou sobremesa.",
+  "ingredientes": [
+"1 xícara de leite em pó,",
+"1 suco em pó de morango",
+"300 ml de água gelada"
+  ],
+"modoPreparo": [
+"Após misturar os ingredientes com a ajuda de um liquidificador, a textura deve ficar homogênea e espessa.", 
+" ",
+"Finalizando",
+"Após montar a mousse, é importante levar à geladeira por pelo menos 30 minutos para obter uma textura mais firme."
+]
+}

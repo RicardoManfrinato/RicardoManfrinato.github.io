@@ -1,0 +1,24 @@
+{
+"id": "creme-de-verao",
+"titulo": "Creme de Verão",
+"categoria": "doces-e-sobremesas",
+"tempoPreparo": "2h 15min",
+"rendimento": "6 porções",
+"imagem": "",
+"descricao": "Uma sobremesa refrescante, cremosa e super rápida de preparar, perfeita para os dias mais quentes.",
+"ingredientes": [
+"1 caixa de leite condensado",
+"1 a 2 caixas de creme de leite",
+"1 pacote de suco em pó (sabor de sua preferência)",
+"1 envelope de gelatina incolor e sem sabor",
+"5 colheres de sopa de água fria",
+"200 a 400 ml de leite"
+],
+"modoPreparo": [
+"Em um pote pequeno, coloque as colheres de água fria e polvilhe a gelatina incolor por cima. Deixe descansar por 5 minutos.",
+"Leve a gelatina hidratada ao micro-ondas por cerca de 15 segundos, apenas para derreter (sem deixar ferver).",
+"No liquidificador, adicione o leite condensado, o creme de leite, o suco em pó e o leite. Bata por 2 minutos até misturar completamente.",
+"Com o liquidificador ainda ligado, adicione a gelatina derretida e bata por mais 30 segundos.",
+"Despeje a mistura em uma travessa média e leve à geladeira por no mínimo 2 horas até firmar."
+]
+}

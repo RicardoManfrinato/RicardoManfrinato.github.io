@@ -1,0 +1,20 @@
+{
+"id": "milkshake-de-chocolate",
+"titulo": "Milkshake de Chocolate",
+"categoria": "bebidas",
+"tempoPreparo": "5 min",
+"rendimento": "2 porções",
+"imagem": "",
+"descricao": "Um milkshake de chocolate super prático e cremoso, feito com cubos de leite congelados para dar a consistência perfeita.",
+"ingredientes": [
+"Cubos de leite congelados",
+"3 colheres de chocolate em pó",
+"4 colheres de leite em pó",
+"2 xícaras de leite"
+],
+"modoPreparo": [
+"Coloque todos os ingredientes no liquidificador.",
+"Bata bem até obter uma mistura cremosa e homogênea.",
+"Sirva imediatamente em copos altos."
+]
+}

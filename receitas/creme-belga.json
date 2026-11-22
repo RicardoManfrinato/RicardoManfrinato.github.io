@@ -1,0 +1,20 @@
+{
+"id": "creme-belga",
+"titulo": "Creme Belga para Pavê",
+"categoria": "coberturas-e-recheios",
+"tempoPreparo": "15 min",
+"rendimento": "800 gramas",
+"imagem": "",
+"descricao": "Um creme branco cremoso, perfeito para recheio de bolos ou pavê.",
+  "ingredientes": [
+"1 lata de leite condensado",
+"1 lata de creme de leite",
+"2 colheres de amido de milho",
+"200 ml de Leite"
+  ],
+"modoPreparo": [
+"Leve ao fogo médio",
+"Dissolva o amido no Leite",
+"Misture o Leite condensado e o creme de leite até engrossar"
+]
+}

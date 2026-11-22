@@ -1,0 +1,29 @@
+{
+  "id": "omelete-na-airfryer",
+  "titulo": "Omelete na Airfryer",
+  "categoria": "Salgados",
+  "tempoPreparo": "15 min",
+  "rendimento": "2 porções",
+  "imagem": "",
+  "descricao": "Uma omelete super fofinha, prática e rápida feita na Airfryer sem precisar sujar o fogão.",
+  "ingredientes": [
+    "3 ovos",
+    "50 g de queijo muçarela picado ou ralado",
+    "50 g de presunto ou peito de peru picado",
+    "1/2 tomate sem sementes picado",
+    "2 colheres de sopa de requeijão cremoso ou creme de leite",
+    "1 colher de chá de fermento em pó (opcional, para ficar bem fofinha)",
+    "Sal, pimenta-do-reino e orégano a gosto",
+    "Cheiro-verde picado a gosto",
+    "Azeite ou manteiga para untar a forma"
+  ],
+  "modoPreparo": [
+    "Em uma tigela, bata bem os ovos com o auxílio de um garfo ou batedor de arame.",
+    "Adicione o requeijão (ou creme de leite), o sal, a pimenta-do-reino e o fermento em pó. Misture até ficar homogêneo.",
+    "Incorpore o queijo, o presunto, o tomate e o cheiro-verde picado.",
+    "Unte uma forma de alumínio ou silicone que caiba na cesta da Airfryer com um pouco de azeite ou manteiga.",
+    "Despeje a mistura da omelete na forma untada e salpique orégano por cima.",
+    "Leve à Airfryer preaquecida a 180°C por cerca de 10 a 12 minutos, ou até que esteja dourada e cozida no centro.",
+    "Retire com cuidado, desenforme ou sirva diretamente na forma."
+  ]
+}

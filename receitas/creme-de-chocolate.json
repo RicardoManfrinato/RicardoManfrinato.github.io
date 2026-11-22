@@ -1,0 +1,18 @@
+{
+"id": "creme-de-chocolate",
+"titulo": "Creme de Chocolate para Bolos",
+"categoria": "coberturas-e-recheios",
+"tempoPreparo": "15 min",
+"rendimento": "600 gramas",
+"imagem": "",
+"descricao": "Um creme de chocolate leve, aveludado e aromatizado, perfeito cobertura ou recheio de bolos.",
+  "ingredientes": [
+"1 lata de leite condensado",
+"1 lata de creme de leite",
+"5 colheres de achocolatado",
+"1 colher de manteiga"
+  ],
+"modoPreparo": [
+"Leve ao fogo todos os ingredientes, mexendo bem sem parar até formar um creme em ponto de brigadeiro."
+]
+}

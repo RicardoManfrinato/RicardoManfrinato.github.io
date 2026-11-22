@@ -1,0 +1,25 @@
+{
+  "id": "flan-de-cafe",
+  "titulo": "Flan de Café sem Forno e sem Ovos",
+  "categoria": "Doces",
+  "tempoPreparo": "15 min (+ 4h de geladeira)",
+  "rendimento": "2 porções",
+  "imagem": "",
+  "descricao": "Um pudim/flan de café super prático, cremoso e leve, feito sem necessidade de ir ao forno ou usar ovos.",
+  "ingredientes": [
+    "400 ml de leite",
+    "35 g de amido de milho (maizena)",
+    "3 colheres de sopa de café solúvel",
+    "Xarope de agave ou adoçante a gosto",
+    "2 colheres de sopa de eritritol ou adoçante (para a calda)",
+    "1 colher de sopa de água (para a calda)"
+  ],
+  "modoPreparo": [
+    "Para a calda: Misture 1 colher de sopa de água com 2 colheres de sopa de eritritol em uma xícara ou caneca e leve ao micro-ondas por 2 minutos em potência máxima.",
+    "Em uma panela em fogo médio, adicione o leite, o amido de milho, o café solúvel e o adoçante a gosto.",
+    "Mexa sem parar com o auxílio de um fouet (batedor de arame) até a mistura engrossar e atingir uma consistência cremosa.",
+    "Despeje a calda de caramelo no fundo das forminhas e, em seguida, adicione o creme de café.",
+    "Leve à geladeira por cerca de 4 horas para firmar.",
+    "Desenforme com cuidado e sirva."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+"id": "leite-condensado-caseiro",
+"titulo": "Leite Condensado Caseiro",
+"categoria": "caseiros",
+"tempoPreparo": "10 min",
+"rendimento": "1 porção (aprox. 200g)",
+"imagem": "",
+"descricao": "Uma versão super simples, rápida e econômica de leite condensado caseiro com apenas dois ingredientes.",
+"ingredientes": [
+"1/2 xícara de água quente",
+"1/2 xícara de açúcar"
+],
+"modoPreparo": [
+"Coloque a água quente e o açúcar no liquidificador.",
+"Bata bem por cerca de 5 a 7 minutos até obter uma consistência lisa e homogênea.",
+"Despeje em um recipiente e leve à geladeira para engrossar até atingir o ponto desejado."
+]
+}

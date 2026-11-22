@@ -1,0 +1,23 @@
+{
+  "id": "cafe-gelado",
+  "titulo": "Café Gelado Cremoso",
+  "categoria": "Bebidas",
+  "tempoPreparo": "5 min",
+  "rendimento": "1 porção",
+  "imagem": "",
+  "descricao": "Um café gelado refrescante e cremoso, perfeito para saborear a qualquer hora do dia.",
+  "ingredientes": [
+    "2 colheres de chá de café solúvel (ou 1 dose de café expresso)",
+    "2 colheres de chá de açúcar (ou adoçante a gosto)",
+    "2 colheres de sopa de água morna",
+    "150 ml de leite gelado",
+    "Pedras de gelo a gosto"
+  ],
+  "modoPreparo": [
+    "Em um copo ou xícara, misture o café solúvel, o açúcar e a água morna.",
+    "Bata bem a mistura com um mini mixer ou garfo até formar um creme espumoso e claro.",
+    "Em um copo alto, adicione as pedras de gelo e despeje o leite gelado.",
+    "Adicione o creme de café por cima do leite.",
+    "Misture delicadamente antes de beber e sirva imediatamente."
+  ]
+}
